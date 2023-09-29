@@ -1,1 +1,1 @@
-# Arabic-Turkish-Rule-Based-VS.-Statistical-Machine-Translation
+# OVERVIEW OF ARABIC/TURKISH RULE-BASED VS. STATISTICAL MACHINE TRANSLATION
